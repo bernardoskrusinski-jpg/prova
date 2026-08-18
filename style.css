@@ -1,0 +1,33 @@
+h1{
+    color:rgb(0, 255, 85);
+    font-size:rgb(196, 233, 255);
+    text-align: center;
+}
+h2{
+    color:rgb(211, 0, 253);
+    text-align: center;
+    font-size:70px;
+}
+body{
+    background-image: url(https://cdn.wallpapersafari.com/12/10/BnTl0o.gif);
+    width: 2000px;
+}
+img{
+    width: 500px;
+    display:block;
+    margin: 0 auto;
+}
+footer{
+    color:rgb(46, 0, 252);
+    border: rgb(255, 230, 0);
+    border-radius: 80px;
+    text-align: center;
+}
+p{
+    font-size: 50px;
+    color: antiquewhite;
+    text-align: center;
+
+}
+
+
